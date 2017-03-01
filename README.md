@@ -14,4 +14,4 @@ Step 7: Open a new file and and save the file as mentioned in the login.php page
 
 Step 8: Save all the .html,.php and .txt files in  single folder.
 
-Step 9: Start a server application such as XAMPP or Apache and host your phishing site by pasting your folder in htdocs folder(for XAMPP) or past your folder in ROOT folder which is present inside the webapp folder.
+Step 9: Start a server application such as XAMPP or Apache and host your phishing site by pasting your folder in htdocs folder(for XAMPP) or past your folder in ROOT folder which is present inside the webapp folder(for Apache).
